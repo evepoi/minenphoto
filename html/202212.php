@@ -14,7 +14,7 @@
             </div>
         </div>
     </section>
-    <!--특강 내용-->
+    <!--사진-->
     <?php include ("footer.php"); ?>
 </body>
 </html>
