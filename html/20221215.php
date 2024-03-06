@@ -15,9 +15,6 @@
                         <div>
                             <div class="photolist_img clearfix">
                                 <img src="https://github.com/evepoi/minenphoto/blob/minengallery/2022/12/15/20221215%20수호천사어린이집%2001.jpg?raw=true" alt="">
-                                <img src="https://github.com/evepoi/minenphoto/blob/minengallery/2022/12/15/20221215%20수호천사어린이집%2002.jpg?raw=true" alt="">
-                                <img src="https://github.com/evepoi/minenphoto/blob/minengallery/2022/12/15/20221215%20수호천사어린이집%2003.jpg?raw=true" alt="">
-                                <img src="https://github.com/evepoi/minenphoto/blob/minengallery/2022/12/15/20221215%20수호천사어린이집%2004.jpg?raw=true" alt="">
                                 <img src="https://github.com/evepoi/minenphoto/blob/minengallery/2022/12/15/20221215%20수호천사어린이집%2005.jpg?raw=true" alt="">
                                 <img src="https://github.com/evepoi/minenphoto/blob/minengallery/2022/12/15/20221215%20수호천사어린이집%2006.jpg?raw=true" alt="">
                                 <img src="https://github.com/evepoi/minenphoto/blob/minengallery/2022/12/15/20221215%20수호천사어린이집%2007.jpg?raw=true" alt="">
