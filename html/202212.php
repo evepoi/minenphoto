@@ -26,8 +26,8 @@
                         <h2>12월 06일 수호천사어린이집</h2>    
                         <div>
                             <div class="photolist_img clearfix">
-                                <img src="https://github.com/evepoi/minenphoto/blob/minengallery/2022/12/06/20221206%20수호천사어린이집%2001.jpg?raw=true" alt="">
-                                <img src="https://github.com/evepoi/minenphoto/blob/minengallery/2022/12/06/20221206%20수호천사어린이집%2002.jpg?raw=true" alt="">
+                                <img src="https://github.com/evepoi/minenphoto/blob/minengallery/2022/12/06/2022120601.jpg?raw=true" alt="">
+                                <img src="https://github.com/evepoi/minenphoto/blob/minengallery/2022/12/06/2022120602.jpg?raw=true" alt="">
                             </div>
                         </div>
                     </div>
