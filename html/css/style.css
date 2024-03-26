@@ -29,7 +29,7 @@
 .Day_202212 li a {padding: 0 10px; font-size: 20px; color: #666; font-weight: 700; border-right: 1px solid #c4c4c4;}
 .Day_infor {float: left; border-top: 1px solid #c4c4c4;}
 .Day_infor h2 {text-align: left; font-weight: 700; font-size: 20px; padding: 5px 0 5px 0;}
-.Day_infor > div {float: left; border-bottom: 1px solid #c4c4c4;}
+.Day_infor > div {float: left;}
 .Day_infor > div > .photolist_img {float: left; margin: 20px; }
 .Day_infor > div > .photolist_img img {display:inline-block; width: 200px;}
 .Day_infor > div > .photolist_infor {float: left;}

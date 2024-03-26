@@ -9,7 +9,42 @@
                 <div class="photolist clearfix">
                     <?php include ("Year.php"); ?>
                     <?php include ("Month_2022.php"); ?>
-                    <?php include ("Day_202212.php"); ?>
+                    <div class="Day_infor clearfix">
+                        <h2>12월 07일 수호천사어린이집</h2>    
+                        <div>
+                            <div class="photolist_img clearfix">
+                                <img src="https://github.com/evepoi/minenphoto/blob/minengallery/2022/12/07/20221207%20수호천사어린이집%2001.jpg?raw=true" alt="">
+                                <img src="https://github.com/evepoi/minenphoto/blob/minengallery/2022/12/07/20221207%20수호천사어린이집%2002.jpg?raw=true" alt="">
+                                <img src="https://github.com/evepoi/minenphoto/blob/minengallery/2022/12/07/20221207%20수호천사어린이집%2003.jpg?raw=true" alt="">
+                                <img src="https://github.com/evepoi/minenphoto/blob/minengallery/2022/12/07/20221207%20수호천사어린이집%2004.jpg?raw=true" alt="">
+                                <img src="https://github.com/evepoi/minenphoto/blob/minengallery/2022/12/07/20221207%20수호천사어린이집%2005.jpg?raw=true" alt="">
+                                <img src="https://github.com/evepoi/minenphoto/blob/minengallery/2022/12/07/20221207%20수호천사어린이집%2006.jpg?raw=true" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="Day_infor clearfix">
+                        <h2>12월 06일 수호천사어린이집</h2>    
+                        <div>
+                            <div class="photolist_img clearfix">
+                                <img src="https://github.com/evepoi/minenphoto/blob/minengallery/2022/12/06/20221206%20수호천사어린이집%2001.jpg?raw=true" alt="">
+                                <img src="https://github.com/evepoi/minenphoto/blob/minengallery/2022/12/06/20221206%20수호천사어린이집%2002.jpg?raw=true" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="Day_infor clearfix">
+                        <h2>12월 05일 수호천사어린이집</h2>    
+                        <div>
+                            <div class="photolist_img clearfix">
+                                <img src="https://github.com/evepoi/minenphoto/blob/minengallery/2022/12/05/20221205%20수호천사어린이집%2001.jpg?raw=true" alt="">
+                                <img src="https://github.com/evepoi/minenphoto/blob/minengallery/2022/12/05/20221205%20수호천사어린이집%2002.jpg?raw=true" alt="">
+                                <img src="https://github.com/evepoi/minenphoto/blob/minengallery/2022/12/05/20221205%20수호천사어린이집%2003.jpg?raw=true" alt="">
+                                <img src="https://github.com/evepoi/minenphoto/blob/minengallery/2022/12/05/20221205%20수호천사어린이집%2004.jpg?raw=true" alt="">
+                                <img src="https://github.com/evepoi/minenphoto/blob/minengallery/2022/12/05/20221205%20수호천사어린이집%2005.jpg?raw=true" alt="">
+                                <img src="https://github.com/evepoi/minenphoto/blob/minengallery/2022/12/05/20221205%20수호천사어린이집%2006.jpg?raw=true" alt="">
+                                <img src="https://github.com/evepoi/minenphoto/blob/minengallery/2022/12/05/20221205%20수호천사어린이집%2007.jpg?raw=true" alt="">
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
