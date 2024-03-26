@@ -7,8 +7,8 @@
         <div class="container">
             <div class="row">
                 <div class="photolist clearfix">
-                    <?php include ("Year.php"); ?>
-                    <?php include ("Month_2022.php"); ?>
+                    <?php include ("Page/Year.php"); ?>
+                    <?php include ("Page/Month_2022.php"); ?>
                 </div>
             </div>
         </div>

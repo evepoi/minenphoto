@@ -8,6 +8,8 @@
             <div class="row">
                 <div class="photolist clearfix">
                     <?php include ("Page/Year.php"); ?>
+                    <?php include ("Page/Month_2023.php"); ?>
+                    <?php include ("Page/Day_202301.php"); ?>
                 </div>
             </div>
         </div>

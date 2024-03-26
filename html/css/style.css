@@ -21,12 +21,12 @@
 .Year {float: left; width: 100%;}
 .Year h2 {float: left; font-weight: 700; font-size: 20px; color: #666;}
 .Year li a {padding: 0 10px; font-size: 20px; color: #666; font-weight: 700; border-right: 1px solid #c4c4c4;}
-.Month_2022 {float: left; width: 100%;}
-.Month_2022 h2 {float: left; font-weight: 700; font-size: 20px; color: #666;}
-.Month_2022 li a {padding: 0 10px; font-size: 20px; color: #666; font-weight: 700; border-right: 1px solid #c4c4c4;}
-.Day_202212 {float: left; width: 100%;}
-.Day_202212 h2 {float: left; font-weight: 700; font-size: 20px; color: #666;}
-.Day_202212 li a {padding: 0 10px; font-size: 20px; color: #666; font-weight: 700; border-right: 1px solid #c4c4c4;}
+.Month {float: left; width: 100%;}
+.Month h2 {float: left; font-weight: 700; font-size: 20px; color: #666;}
+.Month li a {padding: 0 10px; font-size: 20px; color: #666; font-weight: 700; border-right: 1px solid #c4c4c4;}
+.Day {float: left; width: 100%;}
+.Day h2 {float: left; font-weight: 700; font-size: 20px; color: #666;}
+.Day li a {padding: 0 10px; font-size: 20px; color: #666; font-weight: 700; border-right: 1px solid #c4c4c4;}
 .Day_infor {float: left; border-top: 1px solid #c4c4c4;}
 .Day_infor h2 {text-align: left; font-weight: 700; font-size: 20px; padding: 5px 0 5px 0;}
 .Day_infor > div {float: left;}

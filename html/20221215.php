@@ -7,9 +7,9 @@
         <div class="container">
             <div class="row">
                 <div class="photolist clearfix">
-                    <?php include ("Year.php"); ?>
-                    <?php include ("Month_2022.php"); ?>
-                    <?php include ("Day_202212.php"); ?>
+                    <?php include ("Page/Year.php"); ?>
+                    <?php include ("Page/Month_2022.php"); ?>
+                    <?php include ("Page/Day_202212.php"); ?>
                     <div class="Day_infor clearfix">
                         <h2>수호천사어린이집</h2>    
                         <div>
